@@ -21,7 +21,7 @@ To decode, take the letter that you want to decode, and replace it with the lett
 
 **D (default)** - jump back to the beggining of this row.\
 **F (fall)** - go to the beggiing of the next row (if therre is no row below, go back to the beggining of the first row).\
-**B (bounce)** -- reverse the direction (L to R, R to L).\
+**B (bounce)** -- reverse the direction (L to R, R to L). 
 
 ## Understanding Keyboard Swipe
 
@@ -98,8 +98,8 @@ This isn't all that KS can offer. There are some more advanced functions, but th
 
 Switches can be used to modify the ruleset. For now, there are only 3 switches:
 
-**--numbers** or **-n** - applies the encoding to numbers.
-**--special** or **-s** - applies the encoding to special characters (like ',', ':' etc.)
+**--numbers** or **-n** - applies the encoding to numbers.\
+**--special** or **-s** - applies the encoding to special \characters (like ',', ':' etc.)
 **--apply-all** or **-a** - combines the two above.
 
 ### S (switch) direction
